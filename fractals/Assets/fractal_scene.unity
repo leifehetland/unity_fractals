@@ -281,10 +281,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1981682364}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 443f0af648bf1499db3399b4cf510b6f, type: 3}
+  m_Script: {fileID: 11500000, guid: dfe08d4f100c44a2ab356a6e46000de2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  meshes: []
   material: {fileID: 2100000, guid: 54fc55a17d459444ca49b88b19c03af2, type: 2}
   maxDepth: 4
   childScale: 0.5
